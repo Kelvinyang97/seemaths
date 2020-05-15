@@ -5,6 +5,7 @@ SEEMATHS is an online math and probability visualiser which is beautiful, fun to
   - Fun and very educational. The user is greeted with a fun and topical problem and explores a visual solution by interacting with the parameters on the page explaining the corresponding topic. 
   - Deep mathematical and statistical results delivered in an easy to understand way. Bayesian statistics, Queueing theory are typically taught in-depth in second or third-year statistics courses, and through this website, everyone is able to understand such results easily.
   - Built by Engineers for ease of new feature developments and scalabilities. The website adopts MVC architecture and is designed to be scalable.
+  - Open software: everyone is welcome to contribute!
 
 # Purpose
   - To provide a beauttiful math visualization hub for students, professionals, and everyone
