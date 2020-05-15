@@ -1,6 +1,6 @@
-# CMATH
+# SEEMATHS
 
-CMATH is an online math and probability visualiser which is beautiful, fun to play, and educational. The main advantages of it includes the following,
+SEEMATHS is an online math and probability visualiser which is beautiful, fun to play, and educational. The main advantages of it includes the following,
   - Very interactive and easy to use. The visitor is not required to type any mathematical formulae and can see the effects of changing parameters straight away by moving the slider bar.
   - Fun and very educational. The user is greeted with a fun and topical problem and explores a visual solution by interacting with the parameters on the page explaining the corresponding topic. 
   - Deep mathematical and statistical results delivered in an easy to understand way. Bayesian statistics, Queueing theory are typically taught in-depth in second or third-year statistics courses, and through this website, everyone is able to understand such results easily.
